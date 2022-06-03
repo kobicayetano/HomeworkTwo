@@ -1,0 +1,2 @@
+Sample path format:
+/Users/MSI/Downloads/file.txt
